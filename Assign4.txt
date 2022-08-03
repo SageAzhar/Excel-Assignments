@@ -1,0 +1,37 @@
+1. To use the ribbon commands, what menu and grouping of commands will you
+find the Insert and Delete command?
+ANS:    Under the Home tab you will find the insert and delete command
+
+---------------------------------------------------------------------------------------------------------------
+2. If you set a row height or column width to 0 (zero), what happens to the
+row and column?
+ANS:    Excel will hide those rows and columns.
+
+--------------------------------------------------------------------------------------------------------------
+3. Is there a need to change the height and width in a cell? Why?
+ANS:    To view data properly. Excel gives equal height and width to all cells by default. so to fit the data
+        it is necessary to change the height and width of the cell.
+
+---------------------------------------------------------------------------------------------------------------
+4. What is the keyboard shortcut to unhide rows?
+ANS:    "Ctrl+Shift+(" to unhide the rows
+
+---------------------------------------------------------------------------------------------------------------
+5. How to hide rows containing blank cells?
+ANS:    1. Select the empty cells range.
+        2. Go to Home > Editing Group > Find & Select > Go to special
+        3. Now select the Blanks Radio button & Click OK
+        4. Press Ctrl + 9
+
+---------------------------------------------------------------------------------------------------------------
+6. What are the steps to hide the duplicate values using conditional formatting in excel?
+ANS:    Select the range
+        2. conditional formatting > highlight cells rules > duplicate values
+        3. now select custom format and press ok.
+        4. Format cells > Font > in the color drop down choose the background color which matches 
+            the background of blank cells, press ok.
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
