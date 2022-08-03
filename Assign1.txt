@@ -1,0 +1,38 @@
+1. What do you mean by cells in an excel sheet?
+
+ANS:     A cell in excel sheet is formed by intersection of column and row. It has rectangular shape. 
+    They are identified by reference which is formed by combination of column name and row number. 
+    For ex., A cell in Column B and Row num 6 would be called "B6".
+
+
+--------------------------------------------------------------------------------------------------------------
+2. How can you restrict someone from copying a cell from your worksheet?
+ANS:    1. Right click on the cell and click on format cells
+        2. Click on protection
+        3.Ensure Locked is checked and click ok
+        4.Use this key combination. Alt+P and then P again. This will give you the Protect Sheet pop up
+        5.Remove the check from Select locked cells, type in a password and click ok. retype the password
+
+----------------------------------------------------------------------------------------------------------------
+
+3. How to move or copy the worksheet into another workbook?
+ANS: First select the worksheet. one the edit menu choose sheet>Copy or move sheet.
+     go to workbook - paste.
+
+----------------------------------------------------------------------------------------------------------------
+
+4. Which key is used as a shortcut for opening a new window document?
+ANS: to open - Ctrl + O 
+     to create - Ctrl + N
+
+----------------------------------------------------------------------------------------------------------------
+
+5. What are the things that we can notice after opening the Excel interface?
+ANS:    After opening excel we can see the "Ribbon", "Title Bar", "Tool Bar", in which Home tab, Insert, Page   Layout etc are visible. Besides that we can also see the column headings and rownumbers.
+
+---------------------------------------------------------------------------------------------------------------
+
+6. When to use a relative cell reference in excel?
+ANS:    Whenever you need to repeat the same calculation across multiple rows or columns.
+
+---------------------------------------------------------------------------------------------------------------
