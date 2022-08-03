@@ -1,0 +1,43 @@
+1. What does the dollar($) sign do?
+ANS :   It indicates the absolute cell reference in formulas.
+
+--------------------------------------------------------------------------------------------------------
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+ANS :   Select the cell that contains the formula.
+        formula bar---->select the reference that you want to change.
+        Press F4 to switch between the reference types.
+
+---------------------------------------------------------------------------------------------------------
+3. Explain the order of operations in excel?
+ANS : In Excel the typical BODMAS order is used as order of operations. First comes Brackets, then Order,
+      Division, Multiplication, Addition, Substraction.
+
+
+
+---------------------------------------------------------------------------------------------------------
+4. What, according to you, are the top 5 functions in excel and write a basic syntax
+for any of two?
+ANS :   The top five functions in my opinion are- 
+        1. SUM (=SUM(arg1:arg2)    arg - argument, which can be values or cells)
+        2. vlookup (VLOOKUP( value, table, index_number, [approximate_match] ))
+        3. Average
+        4. Text
+        5. concat
+
+
+
+---------------------------------------------------------------------------------------------------------
+5. When would you use the subtotal function?
+ANS :   The SUBTOTAL function is used when you display a Total row in an Excel Table. Excel inserts the SUBTOTAL function automatically, and you can use a drop-down menu to switch behavior and show max, min, average, etc.
+
+---------------------------------------------------------------------------------------------------------
+6. What is the syntax of the vlookup function? Explain the terms in it?
+ANS :   Syntax - VLOOKUP( value, table, index_number, [approximate_match] )
+        value - what you want to look.
+        table - where you want to look.
+        index_number - location
+        [approximate_match] - this one's optional, you have to give a approx matching value.
+
+
+
+------------------------------------------------------------------------------------------------------------
